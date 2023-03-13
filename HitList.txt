@@ -1,1 +1,1 @@
-{"ETHPRICE":1510.52,"GodsHit":[{"name":"Trial of the False Reflection","Floor":1.8986935806519998,"Hit":1.5189548645216}]}
+{"ETHPRICE":1510.52,"GodsHit":[{"name":"Apocalypse Now","Floor":102.7049525172,"Hit":82.16396201376},{"name":"Sleep Dart","Floor":0.9730618788,"Hit":0.77844950304}]}
