@@ -1,1 +1,1 @@
-{"ETHPRICE":1616.74,"IlluviumLandBuy":[],"GodsHit":0.07}
+{"ETHPRICE":1618.14,"IlluviumLandBuy":[],"GodsHit":0.07}
