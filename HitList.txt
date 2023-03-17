@@ -1,1 +1,1 @@
-{"ETHPRICE":1616.74,"IlluviumLandBuy":0.07,"GodsHit":[{"name":"Asterius, Glittering One","Floor":0.0013810299999999999,"Hit":0.0010357725}]}
+{"ETHPRICE":1623.45,"IlluviumLandBuy":0.07,"GodsHit":[]}
